@@ -3,6 +3,7 @@
 .AppleDouble
 .LSOverride
 *.lock
+
 # Directory metadata
 .directory
 managed_components/
